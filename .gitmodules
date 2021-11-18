@@ -1,3 +1,6 @@
 [submodule "iFarm-Backend"]
 	path = iFarm-Backend
 	url = https://github.com/josemnr/IoT-iFarm-Backend
+[submodule "iFarm-Frontend"]
+	path = iFarm-Frontend
+	url = https://github.com/josemnr/IoT-iFarm-Frontend
