@@ -4,3 +4,6 @@
 [submodule "iFarm-Frontend"]
 	path = iFarm-Frontend
 	url = https://github.com/josemnr/IoT-iFarm-Frontend
+[submodule "IoTO2021_iFarm"]
+	path = IoTO2021_iFarm
+	url = https://github.com/sjacobust/IoTO2021_iFarm
